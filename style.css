@@ -1,0 +1,68 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  background-color: white;
+  border-radius: 5px;
+  padding: 20px;
+  width: 90%;
+  max-width: 400px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.title {
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+}
+
+.input-area {
+  margin-bottom: 15px;
+}
+
+.city-select {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.fetch-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  padding: 10px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.fetch-button:hover {
+  background-color: #0056b3;
+}
+
+.weather-info {
+  display: none;
+  margin-top: 15px;
+}
+
+.city-label {
+  font-size: 1.5rem;
+}
+
+.temperature {
+  font-size: 1.2rem;
+}
+
+.description,
+.humidity {
+  font-size: 1rem;
+}

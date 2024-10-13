@@ -1,0 +1,250 @@
+[
+    {
+        "name": "Agra",
+        "country": "IN"
+    },
+    {
+        "name": "Ahmedabad",
+        "country": "IN"
+    },
+    {
+        "name": "Amritsar",
+        "country": "IN"
+    },
+    {
+        "name": "Allahabad",
+        "country": "IN"
+    },
+    {
+        "name": "Bareilly",
+        "country": "IN"
+    },
+    {
+        "name": "Bangalore",
+        "country": "IN"
+    },
+    {
+        "name": "Bhopal",
+        "country": "IN"
+    },
+    {
+        "name": "Brisbane",
+        "country": "AU"
+    },
+    {
+        "name": "Budapest",
+        "country": "HU"
+    },
+    {
+        "name": "Chandigarh",
+        "country": "IN"
+    },
+    {
+        "name": "Chennai",
+        "country": "IN"
+    },
+    {
+        "name": "Chicago",
+        "country": "US"
+    },
+    {
+        "name": "Coimbatore",
+        "country": "IN"
+    },
+    {
+        "name": "Delhi",
+        "country": "IN"
+    },
+    {
+        "name": "Frankfurt",
+        "country": "DE"
+    },
+    {
+        "name": "Ghaziabad",
+        "country": "IN"
+    },
+    {
+        "name": "Guwahati",
+        "country": "IN"
+    },
+    {
+        "name": "Gwalior",
+        "country": "IN"
+    },
+    {
+        "name": "Hyderabad",
+        "country": "IN"
+    },
+    {
+        "name": "Indore",
+        "country": "IN"
+    },
+    {
+        "name": "Jabalpur",
+        "country": "IN"
+    },
+    {
+        "name": "Jaipur",
+        "country": "IN"
+    },
+    {
+        "name": "Jodhpur",
+        "country": "IN"
+    },
+    {
+        "name": "Kanpur",
+        "country": "IN"
+    },
+    {
+        "name": "Kolkata",
+        "country": "IN"
+    },
+    {
+        "name": "Lucknow",
+        "country": "IN"
+    },
+    {
+        "name": "Ludhiana",
+        "country": "IN"
+    },
+    {
+        "name": "Madrid",
+        "country": "ES"
+    },
+    {
+        "name": "Madurai",
+        "country": "IN"
+    },
+    {
+        "name": "Melbourne",
+        "country": "AU"
+    },
+    {
+        "name": "Meerut",
+        "country": "IN"
+    },
+    {
+        "name": "Mumbai",
+        "country": "IN"
+    },
+    {
+        "name": "Nagpur",
+        "country": "IN"
+    },
+    {
+        "name": "Nashik",
+        "country": "IN"
+    },
+    {
+        "name": "Patna",
+        "country": "IN"
+    },
+    {
+        "name": "Pune",
+        "country": "IN"
+    },
+    {
+        "name": "Rajkot",
+        "country": "IN"
+    },
+    {
+        "name": "Raipur",
+        "country": "IN"
+    },
+    {
+        "name": "Ranchi",
+        "country": "IN"
+    },
+    {
+        "name": "Surat",
+        "country": "IN"
+    },
+    {
+        "name": "Thane",
+        "country": "IN"
+    },
+    {
+        "name": "Tokyo",
+        "country": "JP"
+    },
+    {
+        "name": "Varanasi",
+        "country": "IN"
+    },
+    {
+        "name": "Visakhapatnam",
+        "country": "IN"
+    },
+    {
+        "name": "Washington, D.C.",
+        "country": "US"
+    },
+    {
+        "name": "Birmingham",
+        "country": "UK"
+    },
+    {
+        "name": "London",
+        "country": "UK"
+    },
+    {
+        "name": "Manchester",
+        "country": "UK"
+    },
+    {
+        "name": "Berlin",
+        "country": "DE"
+    },
+    {
+        "name": "Munich",
+        "country": "DE"
+    },
+    {
+        "name": "Phoenix",
+        "country": "US"
+    },
+    {
+        "name": "Paris",
+        "country": "FR"
+    },
+    {
+        "name": "Marseille",
+        "country": "FR"
+    },
+    {
+        "name": "Lyon",
+        "country": "FR"
+    },
+    {
+        "name": "Sydney",
+        "country": "AU"
+    },
+    {
+        "name": "Los Angeles",
+        "country": "US"
+    },
+    {
+        "name": "New York",
+        "country": "US"
+    },
+    {
+        "name": "Houston",
+        "country": "US"
+    },
+    {
+        "name": "Guwahati",
+        "country": "IN"
+    },
+    {
+        "name": "Nagoya",
+        "country": "JP"
+    },
+    {
+        "name": "Brisbane",
+        "country": "AU"
+    },
+    {
+        "name": "Melbourne",
+        "country": "AU"
+    }
+] 

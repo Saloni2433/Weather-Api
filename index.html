@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cosmic Weather Forecast</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="title">Cosmic Weather Forecast</h1>
+
+        <div class="input-area">
+            <select id="planetSelector" class="city-select">
+                <option value="" disabled selected>Select a city</option>
+            </select>
+            <button id="getWeather" class="fetch-button">Check Weather</button>
+        </div>
+
+        <div id="weatherDisplay" class="weather-info">
+            <h2 id="cityLabel" class="city-label"></h2>
+            <p id="tempDisplay" class="temperature"></p>
+            <p id="weatherDesc" class="description"></p>
+            <p id="humidityDisplay" class="humidity"></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
